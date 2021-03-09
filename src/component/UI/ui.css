@@ -1,0 +1,77 @@
+.par{
+    height: 900px;
+    background: #f0edede8;
+}
+
+.navbar{
+    font-weight: bold;
+}
+
+.shadow-box-example{
+    box-shadow: 4px 3px 4px 3px #e4dadad5;
+}
+.section-2{
+    box-shadow: 1px 2px 1px #e4dadad5;
+    justify-content: space-evenly;
+    /* height: 500px; */
+    border-radius: 5px;
+    background-color: white;
+}
+.text h4{
+    text-align: initial;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.text h6{
+    text-align: initial;
+    padding-left: 10px;
+}
+.section-3{
+    justify-content: space-evenly;
+}
+.card{
+    box-shadow: 4px 3px 4px 3px #e4dadad5;
+    /* background-color: white; */
+    /* margin-top: 3rem;
+    margin-bottom: 3rem; */
+    border-radius: 20%;
+}
+Button .submit{
+    background: #cd08dfd5;
+}
+.bottom h4{
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+.custom-btn {
+    background: #fff;
+    color: red;
+    border: 2px solid red;
+    border-radius: 3px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+  }
+  .title{
+      padding: 2px;
+      padding-bottom: 5px;
+      width: 100%;
+      color: white;
+      margin-left: 0;
+      margin-right: 0;
+  }
+.bg-custom-btn .home{
+    background: #b683abbd;
+}
+.first{
+    background-color: #e915a2bd;
+}
+.second{
+    background-color: #ca0ecabd;
+}
+.third{
+    background-color: #110ecabd;
+}
+.fourth{
+    background-color: #0eca46bd;
+}
